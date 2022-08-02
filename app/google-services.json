@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "197608123516",
+    "project_id": "ptuxiaki-68991",
+    "storage_bucket": "ptuxiaki-68991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197608123516:android:f16ed593184518bd7e6df9",
+        "android_client_info": {
+          "package_name": "com.example.mappicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197608123516-16coidthkhkp0acbjuffbt6hsqk9mt58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mappicker",
+            "certificate_hash": "784a926cc1fd9b54ce9cdad90d2ad75a76c2021a"
+          }
+        },
+        {
+          "client_id": "197608123516-3u4fsg8p5ahccegi2h7o5q35rfs141un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQlzWO4YcPXGaoZVk68tQbkrbrrFWlMqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197608123516-3u4fsg8p5ahccegi2h7o5q35rfs141un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
